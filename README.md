@@ -16,5 +16,4 @@ You bet your questing ass it can! Turn on the feature in the addon settings
 (through the default addon settings interface). The highest value reward will
 always be chosen, for extra vendor-y cash!
 
-This feature is disabled by default, so you
-can choose your own fate.
+Note that this feature is disabled by default.
