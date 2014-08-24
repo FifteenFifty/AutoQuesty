@@ -1,0 +1,10 @@
+Couple of things this should do based off the readme
+
+First accept all quests with alt pressed
+
+Second hand in all quests with alt pressed
+
+Great that it will pick the highest value item but what if there are multiple quests with an item reward?
+
+Is there a way we can set it to auto pick the one suitable for that class instead using the addon option interface?
+
