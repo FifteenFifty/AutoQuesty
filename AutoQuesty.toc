@@ -1,0 +1,8 @@
+﻿## Interface: 50400
+## Title: AutoQuesty
+## Notes: Automaticallt accepts and hands in quests.
+## Version: 1.0
+## Author: FifteenFifty & LeighF51
+## LoadOnDemand: 0
+## Dependencies:
+AutoQuesty.lua
